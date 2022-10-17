@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-cart](screens/cart)
 - [screen-notifications-preference](screens/notifications-preference)
 - [privacy-policy]()
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
