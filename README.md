@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-settings](screens/settings)
 - [react-native-user-profile](modules/user-profile)
 - [payments]()
+- [screen-store-cart](screens/cart)
 
 # Getting started: Frontend
 

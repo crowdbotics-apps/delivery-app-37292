@@ -1292,6 +1292,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/cart@file:./screens/cart/":
+  version "1.0.0"
+
 "@screens/settings@file:./screens/settings":
   version "1.0.0"
 
